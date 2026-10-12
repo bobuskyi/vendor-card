@@ -1,0 +1,14 @@
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+node_modules/
+dist/
+*.zip
+*.log
+.env
+.env.*
+local_conf.php
+config.local.php
+var/cache/
+var/files/
